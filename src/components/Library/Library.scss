@@ -1,0 +1,42 @@
+.library {
+  margin: auto;
+  width: 44vw;
+  height: 100vh;
+  background-color: #F6F7DD;
+  border: 1px solid transparent;
+
+  &__element {
+    padding: 3vh;
+    text-align: center;
+    list-style-type: none;
+
+    &:first-child {
+      margin-top: 6vh;
+    }
+  }
+}
+
+.itemLink {
+  font-size: 24px;
+  color: #A67C5B;
+  text-decoration: none;
+}
+
+.title {
+  margin: 10vh;
+  text-align: center;
+  color: darkslategray;
+}
+
+.download-link {
+  width: fit-content;
+  margin: 10vh auto;
+  display: flex;
+  font-size: 20px;
+  color: darkslategray;
+}
+
+.player {
+  margin: 10vh auto;
+  display: flex;
+}

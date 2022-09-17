@@ -1,0 +1,43 @@
+.navigation {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 9vh;
+  background: linear-gradient(to right, #DECFAC, #F6F7DD, #C9AD7F, #F6F7DD, #B5926D);
+}
+
+.list {
+  display: flex;
+  justify-content: space-evenly;
+
+  &__link {
+    font-size: 26px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #A67C5B;
+    text-shadow: 
+		  0 2px 2px rgba(246, 247, 221, 0.11),
+		  0 2px 2px rgba(246, 247, 221, 0.11),
+		  0 2px 2px rgba(246, 247, 221, 0.11),
+		  0 2px 2px rgba(246, 247, 221, 0.11),
+		  3px 0 2px rgba(246, 247, 221, 0.11),
+		  2px 0 2px rgba(246, 247, 221, 0.11),
+		  2px 0 2px rgba(246, 247, 221, 0.11),
+		  2px 0 2px rgba(246, 247, 221, 0.11),
+		  2px 1px 2px rgba(246, 247, 221, 0.11),
+		  2px 1px 2px rgba(246, 247, 221, 0.11),
+		  2px 1px 2px rgba(246, 247, 221, 0.11),
+		  2px 1px 2px rgba(246, 247, 221, 0.11),
+		  2px 1px 2px rgba(246, 247, 221, 0.11),
+		  2px 1px 2px rgba(246, 247, 221, 0.11),
+		  2px 1px 2px rgba(246, 247, 221, 0.11),
+		  2px 1px 2px rgba(246, 247, 221, 0.11);
+  }
+}
+
+.page {
+  background-image: url(../../image/background/music-background.jpg);
+  background-size: cover;
+  height: 100vh;
+  border: 0 solid transparent;
+}
