@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/sheet-music-library/static/css/main.aeba7004.css",
-    "main.js": "/sheet-music-library/static/js/main.888e8dc0.js",
+    "main.css": "/sheet-music-library/static/css/main.3e912ede.css",
+    "main.js": "/sheet-music-library/static/js/main.f3cf8d2c.js",
     "static/media/music-background.jpg": "/sheet-music-library/static/media/music-background.5c7986ecdfabf62f02e0.jpg",
     "index.html": "/sheet-music-library/index.html",
-    "main.aeba7004.css.map": "/sheet-music-library/static/css/main.aeba7004.css.map",
-    "main.888e8dc0.js.map": "/sheet-music-library/static/js/main.888e8dc0.js.map"
+    "main.3e912ede.css.map": "/sheet-music-library/static/css/main.3e912ede.css.map",
+    "main.f3cf8d2c.js.map": "/sheet-music-library/static/js/main.f3cf8d2c.js.map"
   },
   "entrypoints": [
-    "static/css/main.aeba7004.css",
-    "static/js/main.888e8dc0.js"
+    "static/css/main.3e912ede.css",
+    "static/js/main.f3cf8d2c.js"
   ]
 }
