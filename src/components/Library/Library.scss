@@ -1,12 +1,18 @@
+$dark-color:  #5a1d1af5;
+$light-color: #eee6e6;
+
 .library {
   margin: auto;
   width: 44vw;
-  height: 100vh;
-  background-color: #F6F7DD;
+  background-color: $dark-color;
   border: 1px solid transparent;
+  border-radius: 0 0 50px 50px;
+  overflow: hidden;
 
   &__element {
-    padding: 3vh;
+    margin-bottom: 6vh;
+    padding: 2vh;
+    background-color: $dark-color;
     text-align: center;
     list-style-type: none;
 
@@ -16,27 +22,61 @@
   }
 }
 
+.breadcrumbs {
+  background-color: $dark-color;
+
+  &__container {
+    margin: auto;
+    padding: 1vh 2vh;
+    display: flex;
+    width: 44vw;
+    align-items: center;
+  }
+
+  &__container * {
+    height: 8vh;
+    font-size: 16px;
+    line-height: 16px;
+    text-decoration: none;
+    cursor: pointer;
+  }
+}
+
 .itemLink {
+  display: block;
   font-size: 24px;
-  color: #A67C5B;
+  color: $light-color;
   text-decoration: none;
 }
 
 .title {
-  margin: 10vh;
+  margin: 5vh 0;
+  padding: 15px;
   text-align: center;
-  color: darkslategray;
+
+  &--small {
+    margin: 0;
+  }
 }
 
 .download-link {
   width: fit-content;
-  margin: 10vh auto;
+  margin: 5vh auto;
   display: flex;
   font-size: 20px;
-  color: darkslategray;
+  background-color: transparent;
+
+  &--small {
+    margin: 5vh auto;
+  }
 }
 
 .player {
-  margin: 10vh auto;
+  margin: 5vh auto;
   display: flex;
+  background-color: transparent;
+
+  &--small {
+    margin: 5vh auto;
+  }
 }

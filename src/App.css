@@ -1,6 +1,13 @@
+@font-face {
+  src: url(../src/fonts/PoetsenOne-Regular.ttf);
+  font-family: alm;
+}
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Amarante', sans-serif;
+  font-family: alm, sans-serif;
+  /* background-color: #5a1d1af5; */
+  color: #eee6e6;
 }
