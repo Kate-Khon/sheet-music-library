@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sheet-music-library/static/css/main.a8ad8f00.css",
-    "main.js": "/sheet-music-library/static/js/main.738c4699.js",
+    "main.css": "/sheet-music-library/static/css/main.3bd992cd.css",
+    "main.js": "/sheet-music-library/static/js/main.e75ad074.js",
     "static/media/GdanskStarowka.jpg": "/sheet-music-library/static/media/GdanskStarowka.3791dd919ddcc3824111.jpg",
-    "static/media/Almendra-Regular.otf": "/sheet-music-library/static/media/Almendra-Regular.f163577841abbe068d38.otf",
+    "static/media/PoetsenOne-Regular.ttf": "/sheet-music-library/static/media/PoetsenOne-Regular.9a553614c0458410b697.ttf",
     "index.html": "/sheet-music-library/index.html",
-    "main.a8ad8f00.css.map": "/sheet-music-library/static/css/main.a8ad8f00.css.map",
-    "main.738c4699.js.map": "/sheet-music-library/static/js/main.738c4699.js.map"
+    "main.3bd992cd.css.map": "/sheet-music-library/static/css/main.3bd992cd.css.map",
+    "main.e75ad074.js.map": "/sheet-music-library/static/js/main.e75ad074.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8ad8f00.css",
-    "static/js/main.738c4699.js"
+    "static/css/main.3bd992cd.css",
+    "static/js/main.e75ad074.js"
   ]
 }
