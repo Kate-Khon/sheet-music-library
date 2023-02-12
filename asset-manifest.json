@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sheet-music-library/static/css/main.66c52899.css",
-    "main.js": "/sheet-music-library/static/js/main.3c99e823.js",
+    "main.js": "/sheet-music-library/static/js/main.54efd4a2.js",
     "static/media/GdanskStarowka.jpg": "/sheet-music-library/static/media/GdanskStarowka.3791dd919ddcc3824111.jpg",
     "static/media/PoetsenOne-Regular.ttf": "/sheet-music-library/static/media/PoetsenOne-Regular.9a553614c0458410b697.ttf",
     "index.html": "/sheet-music-library/index.html",
     "main.66c52899.css.map": "/sheet-music-library/static/css/main.66c52899.css.map",
-    "main.3c99e823.js.map": "/sheet-music-library/static/js/main.3c99e823.js.map"
+    "main.54efd4a2.js.map": "/sheet-music-library/static/js/main.54efd4a2.js.map"
   },
   "entrypoints": [
     "static/css/main.66c52899.css",
-    "static/js/main.3c99e823.js"
+    "static/js/main.54efd4a2.js"
   ]
 }
